@@ -14,3 +14,4 @@ Scripts for the Python Script Orange widget.
 - filter-pos-tags.py: Keep only certain POS tags in tokens.
 - sentence-to-corpus.py: Use sentences as documents and output the new corpus.
 - to_dense.py: Transform sparse data to dense.
+- remove_low_tfidf_values.py: Filters columns with low bag-of-words count or tf-idf
