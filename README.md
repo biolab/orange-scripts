@@ -22,6 +22,7 @@ Scripts for the Python Script Orange widget.
 - to_dense.py: Transform sparse data to dense.
 - remove_low_tfidf_values.py: Filters columns with low bag-of-words count or tf-idf
 - bow-to-sparse.py: Transforms an existing bow matrix (document-term), builds tokens, and turns it into sparse matrix.
+- best-of-clusters.py: Compute ranking of clusters from the Annotated Corpus Map widget.
 
 ## Timeseries add-on
 
